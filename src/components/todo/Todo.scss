@@ -1,0 +1,52 @@
+.add-task-btn {
+  background-color: white;
+  border: none;
+  font-size: 18px;
+  color: green;
+  height: auto;
+  margin-left: -25px;
+}
+.add-icon-input {
+  margin-bottom: 9px;
+}
+.input-type {
+  display: inline-block;
+  width: 100%;
+  height: 20px;
+}
+.render-added-tasks {
+  background-color: white;
+  height: 33px;
+  border-radius: 10px;
+  display: flex;
+  font-size: 13px;
+  box-shadow: 2px 2px 2px 1px grey;
+}
+.done-delete-icons {
+  margin-left: auto !important;
+  font-size: 18px;
+  color: rgb(237, 56, 56);
+}
+.done-icon {
+  margin-right: 0.5rem;
+  color: green !important;
+  font-weight: bold;
+}
+.form-control {
+  height: 33px !important;
+  border-radius: 15px;
+  box-shadow: 1px 1px 1px 1px grey;
+  font-size: 13px;
+}
+input,
+input::placeholder {
+  font-size: 13px;
+}
+.edit-icon {
+  font-size: 18px;
+  color: black;
+  margin-right: 6px;
+}
+.add-task-btn {
+  padding-top: 2px;
+}
